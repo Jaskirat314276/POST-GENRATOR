@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Happy Desk School Management Dashboard
 
 ## Getting Started
 
